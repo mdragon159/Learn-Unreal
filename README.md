@@ -1,6 +1,17 @@
 # Learn Unreal
 This repo aims to assist in the discoverability of Unreal Engine learning resources, covering everything from art to coding. Learning Unreal Engine alone as an indie or aspiring game developer can be extremely difficult. Hope this helps ease your journey somewhat and becomes a frequent place to both come back to as well as to occasionally help grow.
 
+**Table of Contents**
+
+- [FAQs](#faqs)
+- [Communities](#communities)
+- [Unreal Learning Resources](#unreal-learning-resources)
+    - [General](#general)
+    - [Animation](#animation)
+    - [Sound](#sound)
+- [Notable Game Dev Resources](#notable-game-dev-resources)
+    - [Game Design](#game-design)
+
 ## FAQs
 
 1. <details>
@@ -27,9 +38,9 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
   </details>
 
 3. <details>
-    <summary>I want to learn Unreal. Where should I start?</summary>
+    <summary>TODO: I want to learn Unreal. Where should I start?</summary>
 
-    I - Jawad - highly recommend grabbing a course
+    TODO: Suggest grabbing a course off of Udemy to start off with (and when it's on sale). Also mention course I used
 
   </details>
 
@@ -37,6 +48,14 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 TODO
 
 ## Unreal Learning Resources
+This section covers resources specific to learning how to  use Unreal
+
+### General
+TODO: Udemy, official sites & offical YT channel
+
+### Animation
+TODO: Add various links from that one reddit post regarding journey
+
 ### Sound
 - <details>
   <summary><a href="https://www.youtube.com/channel/UC_fUOKtkDh4sXao49dn0bNQ">Valkyrie Sound</a> - Sound-related YT tutorials</summary>
@@ -44,3 +63,9 @@ TODO
     This YouTube channel provides a wide variety of Unreal-specific tutorials on creating sound effects, ranging from what specific sound cue nodes do to how to bullet flybys to adaptive audio. If you're interested in how to create various SFX in Unreal, then this is the channel for you.
 
   </details>
+
+## Notable Game Dev Resources
+This section aims to provide a non-exhaustive list of very notable game dev resources to help you on your journey
+
+### Game Design
+TODO: GMTK amd other great related YT channels
