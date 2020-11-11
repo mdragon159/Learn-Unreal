@@ -39,7 +39,7 @@ TODO
 ## Unreal Learning Resources
 ### Sound
 - <details>
-  <summary><a href="">Valkyrie Sound</a> - Sound-related YT tutorials</summary>
+  <summary><a href="https://www.youtube.com/channel/UC_fUOKtkDh4sXao49dn0bNQ">Valkyrie Sound</a> - Sound-related YT tutorials</summary>
 
     This YouTube channel provides a wide variety of Unreal-specific tutorials on creating sound effects, ranging from what specific sound cue nodes do to how to bullet flybys to adaptive audio. If you're interested in how to create various SFX in Unreal, then this is the channel for you.
 
