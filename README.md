@@ -4,6 +4,8 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 **Table of Contents**
 
 - [FAQs](#faqs)
+    - [Broad Questions](#broad-questions)
+    - [Unreal Getting Started Questions](#unreal-getting-started-questions)
 - [Unreal Learning Resources](#unreal-learning-resources)
     - [General](#general)
     - [Animation](#animation)
@@ -16,6 +18,7 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 
 ## FAQs
 
+### Broad Questions
 1. <details>
     <summary>What does this repo actually contain?</summary>
 
@@ -39,10 +42,26 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
     I started out with Unity years ago during my college freshman year before I had done any programming or the like at all (Software Engineer background) and thus I'm heavily biased towards starting out with Unity  first. Unreal has become both easier to use and easier to learn since then, but the learning curve is still pretty darn strict. However, perhaps this repo will grow to the point where it'll provide you with what you need to journey forth with Unreal immediately =)
   </details>
 
-3. <details>
-    <summary>TODO: I want to learn Unreal. Where should I start?</summary>
+
+### Unreal Getting Started Questions
+1. <details>
+    <summary>TODO: I want to learn Unreal. Where should I start? <i>(Recommended before following questions!)</i></summary>
 
     TODO: Suggest grabbing a course off of Udemy to start off with (and when it's on sale). Also mention course I used
+    
+  </details>
+
+2. <details>
+    <summary>TODO: I have no background in VFX, including particles and materials. How do I get started?</summary>
+
+    TODO: Suggest awesome vids used! Plus course
+
+  </details>
+
+3. <details>
+    <summary>TODO: How do I get started with animations in Unreal?</summary>
+
+    TODO: Suggest wiiiidie variety of vids. Disclaimer that not fully confident here and SHOULD be an easy way, but only way known so far as a solo dev (without learning directly from others)
 
   </details>
 
