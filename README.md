@@ -4,13 +4,15 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 **Table of Contents**
 
 - [FAQs](#faqs)
-- [Communities](#communities)
 - [Unreal Learning Resources](#unreal-learning-resources)
     - [General](#general)
     - [Animation](#animation)
     - [Sound](#sound)
+    - [VFX](#vfx)
 - [Notable Game Dev Resources](#notable-game-dev-resources)
     - [Game Design](#game-design)
+    - [General Audio and Visuals](#general-audio-and-visuals)
+- [Communities](#communities)
 
 ## FAQs
 
@@ -44,9 +46,6 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 
   </details>
 
-## Communities
-TODO
-
 ## Unreal Learning Resources
 This section covers resources specific to learning how to  use Unreal
 
@@ -64,8 +63,55 @@ TODO: Add various links from that one reddit post regarding journey
 
   </details>
 
+### VFX
+TODO: Add CGHow and that one guy with amaaaazing material + thingy intro vids. Plus VFX Coursera course
+
 ## Notable Game Dev Resources
-This section aims to provide a non-exhaustive list of very notable game dev resources to help you on your journey
+This section aims to provide a non-exhaustive list of very notable game dev resources to help you on your journey. Personal recommendation is to subscribe to these channels and frequently watch various game design Youtube videos that interest you in your casual free time.
 
 ### Game Design
-TODO: GMTK amd other great related YT channels
+
+- <details>
+  <summary><a href="https://www.gdcvault.com/">GDC (YT)</a> - Collection of various professional talks given for Game Developers Conferences</summary>
+
+    An extremely valuable resource to keep in your back pocket. Not much else to say, other than you should take an immediate peak at their catalog of YT videos to get an idea of what game changers you may be missing.
+    
+    As an aside, do note that the [GDC Vault](https://www.gdcvault.com/) itself exists as well, which is the official collection of recorded GDC talks. Not all recorded GDC talks are free and the Youtube channel doesn't contain all free recorded talks either.
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/user/McBacon1337">Game Maker's Toolkit</a> - Extremely popular general game design YT channel</summary>
+
+    If you haven't seen GMTK yet, you really really should. Extremely valuable YouTube channel covering a very wide variety of game design topics.
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/c/Thefearalcarrot">Adam Millard - The Architect of Games</a> - Very popular general game design YT channel with his own spin and approach</summary>
+
+    Similar to GMTK, Adam goes into a wide variety of game design topics using various games as examples. A large number of videos also try to boil down the lessons into a few key takeaways or even acronym to use in your game design journey
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/user/Warbot40">Design Doc</a> - Specializes in graphic design as well as comparing and contrasting good + bad examples from various games for wide variety of game design topics</summary>
+
+    This channel often touches on its unique topics that isn't covered in other popular channels, while often using both strong good and bad examples to hone in on the primary points at hand. In addition, this channel also covers graphic + UI design in the very popular [Good Design, Bad Design series](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN).
+
+  </details>
+
+### General Audio and Visuals
+- <details>
+  <summary><a href="https://www.youtube.com/c/NewFramePlus">New Frame Plus</a> - TODO (Animation in games)</summary>
+
+    TODO
+
+  </details>
+
+- <details>
+  <summary><a href="https://www.youtube.com/channel/UCi7l9chXMljpUft67vw78qw">Sideways</a> - TODO (Music, not a focus on games but - as a non-musician - this is really good and much easier to watch than straightforward music theory vids)</summary>
+
+    TODO
+
+  </details>
+
+## Communities
+TODO
