@@ -111,6 +111,14 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
 
   </details>
 - <details>
+
+- <details>
+  <summary><a href="https://www.youtube.com/channel/UCmY2tPu6TZMqHHNPj2QPwUQ">Snoman Gaming</a> - TODO (Broad game design channel w/ focus on good game design  BUT what's their key differentiating factor?)</summary>
+
+    TODO
+
+  </details>
+
   <summary><a href="https://www.youtube.com/user/Warbot40">Design Doc</a> - Specializes in graphic design as well as comparing and contrasting good + bad examples from various games for wide variety of game design topics</summary>
 
     This channel often touches on its unique topics that isn't covered in other popular channels, while often using both strong good and bad examples to hone in on the primary points at hand. In addition, this channel also covers graphic + UI design in the very popular [Good Design, Bad Design series](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN).
@@ -124,7 +132,14 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
     TODO
 
   </details>
+  
+- <details>
+  <summary><a href="https://www.youtube.com/channel/UC8P_raHQ4EoWTSH2GMESMQA">Game Score Fanfare</a> - TODO (Music w/ focus on games and relevant analyses)</summary>
 
+    TODO
+
+  </details>
+  
 - <details>
   <summary><a href="https://www.youtube.com/channel/UCi7l9chXMljpUft67vw78qw">Sideways</a> - TODO (Music, not a focus on games but - as a non-musician - this is really good and much easier to watch than straightforward music theory vids)</summary>
 
