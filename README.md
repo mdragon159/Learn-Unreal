@@ -156,5 +156,6 @@ TODO
 TODO: I haven't really used  any of these, so need to go over these -> understand why they're valuable and unique -> turn into spoiler/expandable format with more details
 
 - [Tom Looman's Unreal Engine Resource Collection](https://www.tomlooman.com/unreal-engine-resources/)
-- [BusinessOfApp's Big List of Unreal Engine Development Resources)[https://www.businessofapps.com/news/big-list-unreal-engine-development-resources/]
+- [BusinessOfApp's Big List of Unreal Engine Development Resources](https://www.businessofapps.com/news/big-list-unreal-engine-development-resources/)
+- [cindustries/unreal-directory](https://github.com/cindustries/unreal-directory)
 - [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
