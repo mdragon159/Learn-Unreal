@@ -15,6 +15,9 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
     - [Game Design](#game-design)
     - [General Audio and Visuals](#general-audio-and-visuals)
 - [Communities](#communities)
+    - [Unreal Specific Communities](#unreal-specific-communities)
+    - [General Game Development Communities](#general-game-development-communities)
+    - [Art Communities](#art-communities)
 - [Other Unreal Resource Compilations](#other-unreal-resource-compilations)
 
 ## FAQs
@@ -74,6 +77,21 @@ TODO: Udemy, official sites & offical YT channel
 
 ### Animation
 TODO: Add various links from that one reddit post regarding journey
+
+- <details>
+  <summary><a href="https://www.youtube.com/user/Warbot40">CGHow</a> - Massive variety of Unreal VFX tutorials of varying quality (TODO, newer ones are better but Niagara)</summary>
+
+    This channel often touches on its unique topics that isn't covered in other popular channels, while often using both strong good and bad examples to hone in on the primary points at hand. In addition, this channel also covers graphic + UI design in the very popular [Good Design, Bad Design series](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN).
+
+  </details>
+  
+- <details>
+  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">Udemy/Unreal Engine VFX for Games, Beginner to Intermediate</a> - TODO, recommended to me and seems to be very solid but still haven't completed</summary>
+
+    TODO
+
+  </details>
+
 
 ### Sound
 - <details>
@@ -151,6 +169,26 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
 
 ## Communities
 TODO
+
+### Unreal Specific Communities
+TODO
+
+### General Game Development Communities
+TODO
+
+### Art Communities
+- <details>
+  <summary><a href="https://www.artstation.com">ArtStation</a> - TODO (Need to use this place more myself too)</summary>
+
+    TODO
+
+  </details>
+- <details>
+  <summary><a href="https://realtimevfx.com/">Real Time VFX</a> - TODO (Great community of VFX artists but haven't delved in at all yet really)</summary>
+
+    TODO
+
+  </details>
 
 ## Other Unreal Resource Compilations
 TODO: I haven't really used  any of these, so need to go over these -> understand why they're valuable and unique -> turn into spoiler/expandable format with more details
