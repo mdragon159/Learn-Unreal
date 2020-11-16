@@ -72,22 +72,15 @@ This section covers resources specific to learning how to  use Unreal
 ### General
 TODO: Udemy, official sites & offical YT channel
 
-### Animation
-TODO: Add various links from that one reddit post regarding journey
-
 - <details>
-  <summary><a href="https://www.youtube.com/user/Warbot40">CGHow</a> - Massive variety of Unreal VFX tutorials of varying quality (TODO, newer ones are better but Niagara)</summary>
-
-    This channel often touches on its unique topics that isn't covered in other popular channels, while often using both strong good and bad examples to hone in on the primary points at hand. In addition, this channel also covers graphic + UI design in the very popular [Good Design, Bad Design series](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN).
-
-  </details>
-  
-- <details>
-  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">Udemy/Unreal Engine VFX for Games, Beginner to Intermediate</a> - TODO, recommended to me and seems to be very solid but still haven't completed</summary>
+  <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)
 
     TODO
 
   </details>
+
+### Animation
+TODO: Add various links from that one reddit post regarding journey
 
 ### Level Design
 TODO
@@ -105,14 +98,21 @@ TODO
 VFX & Materials/Shaders
 </h3>
 
+
 - <details>
-  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">CGHow</a> - Extremely diverse set of VFX (particle system) tutorials
+  <summary><a href="https://www.youtube.com/c/UnrealCG">UnrealCG</a> - Popular channel with a wide variety of quality visual effect tutorials (TODO)</summary>
+
+    TODO
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/user/asif786ali1">CGHow</a> - Extremely diverse set of VFX (particle system) tutorials</summary>
 
     This channel contains a whoooole lot of VFX tutorials, with all recent ones using Niagara. Note that tutorials qualities can differ quite a bit from video to video but the effects are consistently amazing
 
   </details>
 - <details>
-  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">Dean Ashford</a> - Wide variety of visaul effect tutorials, ranging from solid particle systems to special shaders (TODO after more usage)
+  <summary><a href="https://www.youtube.com/channel/UCAaWnOJ4iFSQluBVNS2d-Ew">Dean Ashford</a> - Wide variety of visaul effect tutorials, ranging from solid particle systems to special shaders (TODO after more usage)</summary>
 
     TODO
 
@@ -121,6 +121,8 @@ VFX & Materials/Shaders
 <h4 id="where-to-start-vfx">
 Where to Start
 </h4>
+
+TODO: Answer, what's the difference between Cascade and Niagara?
 
 - <details>
   <summary>Useful Starting Guides</summary>
@@ -132,7 +134,8 @@ Where to Start
   4. [Udemy Niagara VFX Course by Gabriel Aguiar](https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/). 
   5. TODO: More solid Niagara guides!
   
-  Note that you can skip all Cascade related tutorials if you feel that understanding and modifying older particle systems is not relevant for you
+  Note that you can skip all Cascade related tutorials if you feel that understanding and modifying older particle systems is not relevant for you.
+  
   </details>
 
 
