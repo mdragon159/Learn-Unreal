@@ -9,8 +9,10 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 - [Unreal Learning Resources](#unreal-learning-resources)
     - [General](#general)
     - [Animation](#animation)
+    - [Level Design](#level-design)
     - [Sound](#sound)
-    - [VFX](#vfx)
+    - [VFX & Materials/Shaders](#vfx)
+        - [Where to Start](#where-to-start-vfx)
 - [Notable Game Dev Resources](#notable-game-dev-resources)
     - [Game Design](#game-design)
     - [General Audio and Visuals](#general-audio-and-visuals)
@@ -55,12 +57,7 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
     
   </details>
 
-2. <details>
-    <summary>TODO: I have no background in VFX, including particles and materials. How do I get started?</summary>
-
-    TODO: Suggest awesome vids used! Plus course
-
-  </details>
+2.  [I have no background in VFX, including particles and materials. How do I get started?](#where-to-start-vfx)
 
 3. <details>
     <summary>TODO: How do I get started with animations in Unreal?</summary>
@@ -92,6 +89,8 @@ TODO: Add various links from that one reddit post regarding journey
 
   </details>
 
+### Level Design
+TODO
 
 ### Sound
 - <details>
@@ -101,8 +100,41 @@ TODO: Add various links from that one reddit post regarding journey
 
   </details>
 
-### VFX
-TODO: Add CGHow and that one guy with amaaaazing material + thingy intro vids. Plus VFX Coursera course
+
+<h3 id="vfx">
+VFX & Materials/Shaders
+</h3>
+
+- <details>
+  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">CGHow</a> - Extremely diverse set of VFX (particle system) tutorials
+
+    This channel contains a whoooole lot of VFX tutorials, with all recent ones using Niagara. Note that tutorials qualities can differ quite a bit from video to video but the effects are consistently amazing
+
+  </details>
+- <details>
+  <summary><a href="https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/">Dean Ashford</a> - Wide variety of visaul effect tutorials, ranging from solid particle systems to special shaders (TODO after more usage)
+
+    TODO
+
+  </details>
+
+<h4 id="where-to-start-vfx">
+Where to Start
+</h4>
+
+- <details>
+  <summary>Useful Starting Guides</summary>
+
+  Listed in personal recommendation order to go through:
+  1. [Excellent Single Vid Material Intro Vid w/ Realtime 3D NowYoshi](https://youtu.be/-B9k7WwHexQ). Sooo good, excellent efficient introduction for beginners which teaches a wide variety of common techniques as well
+  2. [Unreal's Official Intro to Materials Series](https://www.youtube.com/watch?v=lngF4VVNER4&list=PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-&index=1). A bit old but not outraded and goes through all key aspects of materials rather thoroughly
+  3. [Particle Systems Intro Vid w/ Realtime 3D NowYoshi](https://youtu.be/WAnAZcMHt9w). Another pretty solid succinct intro tutorial, this time on particle systems and several common techniques related to them. Note that this is with the older Cascade particle systems so may not be entirely relevant for you.
+  4. [Udemy Niagara VFX Course by Gabriel Aguiar](https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/). 
+  5. TODO: More solid Niagara guides!
+  
+  Note that you can skip all Cascade related tutorials if you feel that understanding and modifying older particle systems is not relevant for you
+  </details>
+
 
 ## Notable Game Dev Resources
 This section aims to provide a non-exhaustive list of very notable game dev resources to help you on your journey. Personal recommendation is to subscribe to these channels and frequently watch various game design Youtube videos that interest you in your casual free time.
