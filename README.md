@@ -1,6 +1,10 @@
 # Learn Unreal
 This repo aims to assist in the discoverability of Unreal Engine learning resources, covering everything from art to coding. Learning Unreal Engine alone as an indie or aspiring game developer can be extremely difficult and thus I hope this helps ease your journey somewhat.
 
+TODO: Emphasize this is based on my journey and what I've run into. There are tons of resources out there so there's a lot missing here as well. However, focus here is to list out key channels and otherwise resources that would help the greatest on a category-by-category basis
+
+TODO: Perhaps a section on how to find resources? Eg, search on Youtube then google (lotta text stuff out there)?
+
 **Table of Contents**
 
 - [FAQs](#faqs)
@@ -70,7 +74,7 @@ This repo aims to assist in the discoverability of Unreal Engine learning resour
 This section covers resources specific to learning how to  use Unreal
 
 ### General
-TODO: Udemy, official sites & offical YT channel
+TODO: Udemy, official sites & offical YT channel, CodeLikeMe
 
 - <details>
   <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)
@@ -115,6 +119,21 @@ VFX & Materials/Shaders
   <summary><a href="https://www.youtube.com/channel/UCAaWnOJ4iFSQluBVNS2d-Ew">Dean Ashford</a> - Wide variety of visaul effect tutorials, ranging from solid particle systems to special shaders (TODO after more usage)</summary>
 
     TODO
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/user/bcloward/playlists">Ben Cloward</a> - Collections of detailed visual effect tutorials (TODO)</summary>
+
+    TODO as haven't personally used any of these tutorials and also includes a bit more than just visual effects
+    
+    Notable collections:
+    
+    1. [UE4 Material Editor - Shader Creation](https://www.youtube.com/watch?v=uQG0SWv5lbw&list=PL78XDi0TS4lFlOVKsNC6LR4sCQhetKJqs).  This playlist includes 46 videos but note that's due to this large playlist also including the videos from the following playlists as well
+    2. [Rain Materials in Unreal Engine 4](https://www.youtube.com/watch?v=fYGOZYST-oQ&list=PL78XDi0TS4lHpIHseomZCPRm_NkyUMkPs)
+    3. [Procedural Noise Materials in Unreal Engine 4](https://www.youtube.com/watch?v=QIlxWkfZK-8&list=PL78XDi0TS4lE7kpna273_SUl2e0PXYZRY)
+    4. [UE4 Water Material Tutorial](https://www.youtube.com/watch?v=r68DnTMeFFQ&list=PL78XDi0TS4lGXKflD2Z5aY2sLuIln6-sD)
+    5. [UE4 Foliage and Vegetation](https://www.youtube.com/watch?v=5FxaVC5w97w&list=PL78XDi0TS4lEbQu-02qku02hR2QUKfDPR)
+    6. [UE4 Ray Tracing](https://www.youtube.com/watch?v=WH1bwspb_Js&list=PL78XDi0TS4lFECjPpC3ClUIqNApHmdrPt)
 
   </details>
 
