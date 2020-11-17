@@ -184,8 +184,6 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
 
   </details>
 - <details>
-
-- <details>
   <summary><a href="https://www.youtube.com/channel/UCmY2tPu6TZMqHHNPj2QPwUQ">Snoman Gaming</a> - TODO (Broad game design channel w/ focus on good game design  BUT what's their key differentiating factor?)</summary>
 
     TODO
