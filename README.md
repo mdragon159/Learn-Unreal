@@ -196,8 +196,9 @@ TODO: Answer, what's the difference between Cascade and Niagara?
   1. [Excellent Single Vid Material Intro Vid w/ Realtime 3D NowYoshi](https://youtu.be/-B9k7WwHexQ). Sooo good, excellent efficient introduction for beginners which teaches a wide variety of common techniques as well
   2. [Unreal's Official Intro to Materials Series](https://www.youtube.com/watch?v=lngF4VVNER4&list=PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-&index=1). A bit old but not outraded and goes through all key aspects of materials rather thoroughly
   3. [Particle Systems Intro Vid w/ Realtime 3D NowYoshi](https://youtu.be/WAnAZcMHt9w). Another pretty solid succinct intro tutorial, this time on particle systems and several common techniques related to them. Note that this is with the older Cascade particle systems so may not be entirely relevant for you.
-  4. [Udemy Niagara VFX Course by Gabriel Aguiar](https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/). 
-  5. TODO: More solid Niagara guides!
+  4. [Unreal's Official Intro to Cascade Series](https://www.youtube.com/watch?v=OXK2Xbd7D9w&list=PLZlv_N0_O1gYDLyB3LVfjYIcbBe8NqR8t). Again this tutorial series is about the older Cascade tool for creating particles, but it should again give you a pretty good foundation before moving onto the more powerful Niagara. Feel free to quickly skim through these vids to see how valuable they'd be to you
+  5. [Udemy Niagara VFX Course by Gabriel Aguiar](https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/). 
+  6. TODO: More solid Niagara guides!
   
   Note that you can skip all Cascade related tutorials if you feel that understanding and modifying older particle systems is not relevant for you.
   
