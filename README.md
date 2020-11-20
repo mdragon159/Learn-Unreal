@@ -98,6 +98,7 @@ This section covers resources specific to learning how to  use Unreal
 <h4 id="general-quality-youtube">
 Quality Youtube Channels w/ Broad Scope
 </h4>
+
 - <details>
   <summary><a href="https://www.youtube.com/c/CodeLikeMe/videos">CodeLikeMe</a> - Massive variety of tutorials, useful as a starting base for new concepts such as IK</summary>
 
@@ -108,6 +109,7 @@ Quality Youtube Channels w/ Broad Scope
     Thank you for the channel creator for doing this for so many years and for creating so many vids so often, this channel is a really damn good treasure trove to get an idea on how to start out.
 
   </details>
+  
 - <details>
   <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)</summary>
 
@@ -118,6 +120,7 @@ Quality Youtube Channels w/ Broad Scope
 <h4 id="general-other">
 Other
 </h4>
+
 - <details>
   <summary><a href="https://www.udemy.com/">Udemy</a> - Various paid courses and a highly recommended starting point for beginners</summary>
 
