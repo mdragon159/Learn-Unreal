@@ -12,6 +12,9 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
     - [Unreal Getting Started Questions](#unreal-getting-started-questions)
 - [Unreal Learning Resources](#unreal-learning-resources)
     - [General](#general)
+        - [Official Resources](#official-resources)
+        - [Quality Youtube Channels w/ Broad Scope](#general-quality-youtube)
+        - [Other](#general-other)
     - [Animation](#animation)
     - [Level Design](#level-design)
     - [Sound](#sound)
@@ -20,6 +23,7 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
 - [Notable Game Dev Resources](#notable-game-dev-resources)
     - [Game Design](#game-design)
     - [General Audio and Visuals](#general-audio-and-visuals)
+    - [Narrative Design](#narrative-design)
 - [Communities](#communities)
     - [Unreal Specific Communities](#unreal-specific-communities)
     - [General Game Development Communities](#general-game-development-communities)
@@ -74,12 +78,52 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
 This section covers resources specific to learning how to  use Unreal
 
 ### General
-TODO: Udemy, official sites & offical YT channel, CodeLikeMe
 
+#### Official Resources
 - <details>
-  <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)
+  <summary><a href="https://www.unrealengine.com/en-US/onlinelearning-courses">Unreal Official Free "Courses"</a> - TODO, sparse in some ways but many hidden gems here for both beginners and advanced devs</summary>
+
+    TODO (only have been looking at this recently), but makes it easy to find some nice gems for advanced concepts such as [Dynamic Audio](https://www.unrealengine.com/en-US/onlinelearning-courses/dynamic-audio). Worth quickly looking through what's available here
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/user/UnrealDevelopmentKit">Unreal Official Youtube</a> - Large but messy gem of resources</summary>
+
+    The official Unreal Engine channel has a *ton* of resources. If you're trying to learn a new component of Unreal - or just trying to get perspective on how professionals work with Unreal - then drop on by to this channel. Recommended to check out playlists as well as use the search bar.
+    
+    As a quick disclaimer, these vids do have various quality and utility. Thus, YMMV (your mileage may vary)
+
+  </details>
+  
+<h4 id="general-quality-youtube">
+Quality Youtube Channels w/ Broad Scope
+</h4>
+- <details>
+  <summary><a href="https://www.youtube.com/c/CodeLikeMe/videos">CodeLikeMe</a> - Massive variety of tutorials, useful as a starting base for new concepts such as IK</summary>
+
+    This is a begrudgingly given recommendation, as the channel's quality of videos isn't the greatest- often they're 30-40+ minutes long involving the dev figuring things out as he goes. However, this channel is a *massive* treasure trove diving into all sorts of concepts. In addition, once you're aware ahead of time that the dev doesn't always have the "best" (most efficient) approaches as well as that the vids often are so long due to following the dev's natural development process, then this channel becomes extremely valuable and understandable for why you'd want to dive in.
+    
+    In short, don't go to this channel if you're looking for high quality tutorials with best practices but *definitely* check out this channel for various overviews on how to implement various extremely diverse concepts.
+    
+    Thank you for the channel creator for doing this for so many years and for creating so many vids so often, this channel is a really damn good treasure trove to get an idea on how to start out.
+
+  </details>
+- <details>
+  <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)</summary>
 
     TODO
+
+  </details>
+
+<h4 id="general-other">
+Other
+</h4>
+- <details>
+  <summary><a href="https://www.udemy.com/">Udemy</a> - Various paid courses and a highly recommended starting point for beginners</summary>
+
+    Udemy is an extremely useful resource for beginners, with courses ranging on how to create your first games to [Tom Looman's Multiplayer Games with C++ course](https://www.udemy.com/course/unrealengine-cpp/). 
+    
+    **Key note regarding price:** Unless you're extremely impatient (or want to support the creators more with expensive purchases), I highly recommend *never* buying a course at full price. Udemy has a sale practically every month for courses and - especially towards the end of the year, including Black Friday until New Year's - every course across the site even drops down to around $5-11. Highly recommend to wait and check frequently until a course is around $5-20 before buying.
 
   </details>
 
@@ -101,7 +145,6 @@ TODO
 <h3 id="vfx">
 VFX & Materials/Shaders
 </h3>
-
 
 - <details>
   <summary><a href="https://www.youtube.com/c/UnrealCG">UnrealCG</a> - Popular channel with a wide variety of quality visual effect tutorials (TODO)</summary>
@@ -214,6 +257,17 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
   
 - <details>
   <summary><a href="https://www.youtube.com/channel/UCi7l9chXMljpUft67vw78qw">Sideways</a> - TODO (Music, not a focus on games but - as a non-musician - this is really good and much easier to watch than straightforward music theory vids)</summary>
+
+    TODO
+
+  </details>
+  
+
+### Narrative Design
+There are various compilations on writing for video game and fiction in general ([like this one](https://medium.com/@farrtom/the-book-to-read-if-you-want-to-get-into-video-game-writing-4ca9442ec713)), but this section lists resources that I've personally used and loved. Note that I don't have a storytelling background of any sort, so these may be overly geared towards beginnings
+
+- <details>
+  <summary><a href="https://www.amazon.com/Video-Game-Storytelling-Developer-Techniques/dp/0385345828">Video Game Storytelling: What Every Developer Needs to Know about Narrative Techniques (Book)</a> - TODO (Currently reading, goes into basics and key elements really well at least)</summary>
 
     TODO
 
