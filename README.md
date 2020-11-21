@@ -129,6 +129,11 @@ Other
     **Key note regarding price:** Unless you're extremely impatient (or want to support the creators more with expensive purchases), I highly recommend *never* buying a course at full price. Udemy has a sale practically every month for courses and - especially towards the end of the year, including Black Friday until New Year's - every course across the site even drops down to around $5-11. Highly recommend to wait and check frequently until a course is around $5-20 before buying.
 
   </details>
+- <details>
+  <summary><a href="https://www.skillshare.com">Skillshare</a> - Subscription based course site with some overlap with the same courses on Udemy</summary>
+
+    Compared to Udemy, Skillshare doesn't offer a very wide variety of Unreal-specific courses (or game development courses in general from my experience), but it does have significant overlap with some Unreal courses on Udemy. Thus, if you already have a Skillshare subscription or interested in getting one for other sort of courses as well, then highly recommend checking out what's available. Who knows, you may find some nice quality gems or at least save some money compared to buying overlapping courses from Udemy
+  </details>
 
 ### Animation
 TODO: Add various links from that one reddit post regarding journey
@@ -255,6 +260,15 @@ This section aims to provide a non-exhaustive list of very notable game dev reso
   <summary><a href="https://www.youtube.com/user/Warbot40">Design Doc</a> - Specializes in graphic design as well as comparing and contrasting good + bad examples from various games for wide variety of game design topics</summary>
 
     This channel often touches on its unique topics that isn't covered in other popular channels, while often using both strong good and bad examples to hone in on the primary points at hand. In addition, this channel also covers graphic + UI design in the very popular [Good Design, Bad Design series](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN).
+
+  </details>
+
+- <details>
+  <summary><a href="https://www.youtube.com/channel/UCfHmyqCntYHQ81ZukNu66rg">Razbuten</a> - Game design channel full of interesting takes on various mechanics and design elements, often including takes and perspectives you may not have considered before</summary>
+
+    Razbuten is a pretty interesting channel with his own unique twist on game design concepts, ranging from opinionated but eye opening pieces on various mechanics to the [Gaming For A Non-Gamer series](https://www.youtube.com/watch?v=ax7f3JZJHSw&list=PLordXx8iNEyStcX_WzqM0JCpiJYgqhinc) showing how non-gamers view games.
+    
+    Definitely a channel that will broaden your perspective and make you a better game designer all around
 
   </details>
 
