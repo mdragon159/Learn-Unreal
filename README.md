@@ -100,6 +100,15 @@ Quality Youtube Channels w/ Broad Scope
 </h4>
 
 - <details>
+  <summary><a href="https://www.youtube.com/c/MathewWadsteinTutorials/featured">Mathew Wadstein</a> - Creator of the legendary WTF series</summary>
+
+    One day you'll find yourself searching what exactly a Blueprint node does or how exactly a specific feature works. That day, you'll find yourself drawn to this Youtube channel full of simple to understand yet in depth explanations of exactly how individual nodes and features work. And on that day, you'll remember the legendary channel (or at least video series) that became your savior.
+    
+    Seriously though, the official Unreal docs needs to get on this level. Epic, please hire Mathew Wadstein.
+
+  </details>
+
+- <details>
   <summary><a href="https://www.youtube.com/c/CodeLikeMe/videos">CodeLikeMe</a> - Massive variety of tutorials, useful as a starting base for new concepts such as IK</summary>
 
     This is a begrudgingly given recommendation, as the channel's quality of videos isn't the greatest- often they're 30-40+ minutes long involving the dev figuring things out as he goes. However, this channel is a *massive* treasure trove diving into all sorts of concepts. In addition, once you're aware ahead of time that the dev doesn't always have the "best" (most efficient) approaches as well as that the vids often are so long due to following the dev's natural development process, then this channel becomes extremely valuable and understandable for why you'd want to dive in.
@@ -114,6 +123,27 @@ Quality Youtube Channels w/ Broad Scope
   <summary><a href="https://www.youtube.com/c/NitrogenDev">Nitrogen</a> - TODO (wide variety of very high quality tutorials)</summary>
 
     TODO
+
+  </details>
+
+- <details>
+  <summary><a href="https://www.youtube.com/c/TomLooman1/featured">Tom Looman's YT</a> - TODO (in depth tutorials from a professional dev and skilled teacher)</summary>
+
+    TODO
+
+  </details>
+  
+- <details>
+  <summary><a href="https://www.youtube.com/c/RyanLaley/featured">Ryan Laley</a> - TODO (widely recommended by others)</summary>
+
+    TODO
+
+  </details>
+
+- <details>
+  <summary><a href="https://www.youtube.com/c/MatthewPalaje/featured">Matthew Palaje</a> - Variety of popular tutorials including both Unreal-specific and general game dev tutorials</summary>
+
+    This channel has a wide variety of content that may or may not appeal to you. I'd suggest looking through the wide selection of videos and watching those that pique your interest, such as the recreating Overwatch ability tutorials.
 
   </details>
 
@@ -136,10 +166,18 @@ Other
   </details>
 
 ### Animation
-TODO: Add various links from that one reddit post regarding journey
+TODO: Add various links from that [one reddit post regarding personal journey w/ learning Unreal's animation systems](https://www.reddit.com/r/unrealengine/comments/jeuo3c/i_want_to_learn_to_make_playable_characters/g9i7vbf/?context=3)
+
 
 ### Level Design
-TODO
+This section is currently a catch-all for all things that go into creating a level, including lighting. Will break up into further sections as the need arises
+
+- <details>
+  <summary><a href="https://www.udemy.com/course/unreal-engine-4-beginners-guide-to-lighting/">Lighting Beginner Course</a> - Extremely valuable introduction to lighting in Unreal</summary>
+
+    This course covers the different lighting options in Unreal and how they work at a high level, but more importantly to what I've seen, this course answers many frequently asked questions regarding many common lighting issues people face. I recommend this as an essential course for all indie devs
+
+  </details>
 
 ### Sound
 - <details>
