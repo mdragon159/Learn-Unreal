@@ -141,6 +141,13 @@ Quality Youtube Channels w/ Broad Scope
   </details>
 
 - <details>
+  <summary><a href="https://www.youtube.com/channel/UCMXDRABjjd6McLiwnBikLLA">Ryan Manning</a> - TODO (widely recommended by others)</summary>
+
+    TODO
+
+  </details>
+
+- <details>
   <summary><a href="https://www.youtube.com/c/MatthewPalaje/featured">Matthew Palaje</a> - Variety of popular tutorials including both Unreal-specific and general game dev tutorials</summary>
 
     This channel has a wide variety of content that may or may not appeal to you. I'd suggest looking through the wide selection of videos and watching those that pique your interest, such as the recreating Overwatch ability tutorials.
