@@ -16,7 +16,8 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
         - [Quality Youtube Channels w/ Broad Scope](#general-quality-youtube)
         - [Other](#general-other)
     - [Animation](#animation)
-    - [Level & Environment Design](#level-design)
+    - [Level & Environment Design](#level-environment-design)
+        - [General](#level-environment-general)
         - [Lighting](#lighting)
     - [Sound](#sound)
     - [VFX & Materials/Shaders](#vfx)
@@ -176,7 +177,7 @@ Other
 ### Animation
 TODO: Add various links from that [one reddit post regarding personal journey w/ learning Unreal's animation systems](https://www.reddit.com/r/unrealengine/comments/jeuo3c/i_want_to_learn_to_make_playable_characters/g9i7vbf/?context=3)
 
-<h3 id="level-design">
+<h3 id="level-environment-design">
 Level & Environment Design
 </h3>
 
@@ -184,7 +185,9 @@ This section is currently a catch-all for all things that go into creating a lev
 
 As a side note, I'm trying to refrain from bloating this file with general resources for becoming an environmental artist, including both Unreal specifics as well as regarding the essentials + basics (eg, creation of game ready assets and otherwise modifying assets outside of Unreal). If you're interested in that sort of thing but feeling lost, feel free to reach out to me directly.
 
-#### General
+<h4 id="level-environment-general">
+General
+</h4>
 - <details>
   <summary><a href="https://www.youtube.com/user/quixelteddy">Quixel YT</a> - Rich resource giving good overviews regarding building environments</summary>
 
