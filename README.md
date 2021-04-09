@@ -16,7 +16,8 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
         - [Quality Youtube Channels w/ Broad Scope](#general-quality-youtube)
         - [Other](#general-other)
     - [Animation](#animation)
-    - [Level Design](#level-design)
+    - [Level & Environment Design](#level-design)
+        - [Lighting](#lighting)
     - [Sound](#sound)
     - [VFX & Materials/Shaders](#vfx)
         - [Where to Start](#where-to-start-vfx)
@@ -175,16 +176,43 @@ Other
 ### Animation
 TODO: Add various links from that [one reddit post regarding personal journey w/ learning Unreal's animation systems](https://www.reddit.com/r/unrealengine/comments/jeuo3c/i_want_to_learn_to_make_playable_characters/g9i7vbf/?context=3)
 
+<h3 id="level-design">
+Level & Environment Design
+</h3>
 
-### Level Design
-This section is currently a catch-all for all things that go into creating a level, including lighting. Will break up into further sections as the need arises
+This section is currently a catch-all for all things that go into creating a level, including lighting. Will break up into further sections as the need arises.
 
+As a side note, I'm trying to refrain from bloating this file with general resources for becoming an environmental artist, including both Unreal specifics as well as regarding the essentials + basics (eg, creation of game ready assets and otherwise modifying assets outside of Unreal). If you're interested in that sort of thing but feeling lost, feel free to reach out to me directly.
+
+#### General
+- <details>
+  <summary><a href="https://www.youtube.com/user/quixelteddy">Quixel YT</a> - Rich resource giving good overviews regarding building environments</summary>
+
+    This channel does have a strong focus on using Quixel tools in general, but there's also many quality videos regarding building environments within Unreal specifically. Recommend checking them out.
+
+  </details>
+
+#### Lighting
 - <details>
   <summary><a href="https://www.udemy.com/course/unreal-engine-4-beginners-guide-to-lighting/">Lighting Beginner Course</a> - Extremely valuable introduction to lighting in Unreal</summary>
 
     This course covers the different lighting options in Unreal and how they work at a high level, but more importantly to what I've seen, this course answers many frequently asked questions regarding many common lighting issues people face. I recommend this as an essential course for all indie devs
 
   </details>
+  - <details>
+  <summary><a href="https://youtu.be/grN5Yd55UIM">Lightmass and Beyond Video</a> - TODO (recommended in depth for lighting in Unreal)</summary>
+
+    TODO (need to watch it all the way through myself)
+
+  </details>
+  - <details>
+  <summary><a href="https://youtu.be/grN5Yd55UIM">51Daedalus</a> - Home of the Unreal 4 Lighting Academy</summary>
+
+    TODO. 51Daedalus created the highly recommended and highly praised Lighting Academy series, which will teach even a beginner on how to beautifully light all sorts of different scenes.
+
+  </details>
+
+
 
 ### Sound
 - <details>
