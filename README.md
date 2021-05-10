@@ -26,6 +26,7 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
     - [Game Design](#game-design)
     - [General Audio and Visuals](#general-audio-and-visuals)
     - [Narrative Design](#narrative-design)
+    - [General VFX Resources](#general-vfx)
 - [Communities](#communities)
     - [Unreal Specific Communities](#unreal-specific-communities)
     - [General Game Development Communities](#general-game-development-communities)
@@ -396,6 +397,12 @@ There are various compilations on writing for video game and fiction in general 
     TODO
 
   </details>
+
+<h3 id="general-vfx">
+General VFX Resources
+</h4>
+
+- [Getting Started in Real Time VFX? Start Here!](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) (Real Time VFX thread)
 
 ## Communities
 TODO
