@@ -263,6 +263,12 @@ VFX & Materials/Shaders
     6. [UE4 Ray Tracing](https://www.youtube.com/watch?v=WH1bwspb_Js&list=PL78XDi0TS4lFECjPpC3ClUIqNApHmdrPt)
 
   </details>
+  - <details>
+  <summary><a href="https://www.youtube.com/channel/UC3Yf1SuYLc5WdChEgXRA6OQ/videos">gameDev Output</a> - TODO (Thorough series of Niagara videos, need to look through other videos more)</summary>
+
+    TODO
+
+  </details>
 
 <h4 id="where-to-start-vfx">
 Where to Start
@@ -291,7 +297,8 @@ TODO: Answer, what's the difference between Cascade and Niagara?
   **Finally focusing on Niagara...**
   
   5. [Udemy Niagara VFX Course by Gabriel Aguiar](https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/). 
-  6. TODO: More solid Niagara guides!
+  6. For more in depth Niagara knowledge and experience, go through [gameDev Output's extensive video series on Niagara](https://www.youtube.com/playlist?list=PLomQNLPOWtzYXU_pRIUVVEV9uY7bjENZ5) as well
+  7. TODO: More solid Niagara guides!
   
   &nbsp;
   
