@@ -299,6 +299,15 @@ TODO: Answer, what's the difference between Cascade and Niagara?
   
   </details>
 
+- <details>
+  <summary>Additional Quality Courses</summary>
+
+  Here are additional quality paid courses which I have not personally taken but have been used by many satisfied students.
+  
+  - [VFXApprentice](https://www.vfxapprentice.com/) - Containsa range of VFX courses for beginners and up, including both 2D and 3D VFX
+  - [Overdraw's Advanced Materia VFX Course](https://www.overdraw.xyz/training/advancedvfxinunrealmateria) - Advanced VFX course which requires "basic knowledge of working in Houdini and Substance Designer and an intermediate level in working in UE4"
+  
+  </details>
 
 ## Notable Game Dev Resources
 This section aims to provide a non-exhaustive list of very notable game dev resources to help you on your journey. Personal recommendation is to subscribe to these channels and frequently watch various game design Youtube videos that interest you in your casual free time.
