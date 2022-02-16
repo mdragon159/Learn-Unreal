@@ -264,12 +264,14 @@ VFX & Materials/Shaders
     6. [UE4 Ray Tracing](https://www.youtube.com/watch?v=WH1bwspb_Js&list=PL78XDi0TS4lFECjPpC3ClUIqNApHmdrPt)
 
   </details>
-  - <details>
+- <details>
   <summary><a href="https://www.youtube.com/channel/UC3Yf1SuYLc5WdChEgXRA6OQ/videos">gameDev Output</a> - TODO (Thorough series of Niagara videos, need to look through other videos more)</summary>
 
     TODO
 
   </details>
+- <a href="https://www.youtube.com/c/1MaFX/videos">1MaFX</a>
+- <a href="https://www.youtube.com/c/GabrielAguiarProd/featured">Gabriel Aguiar Prod</a> - Broad set of Unity VFX tutorials which are easily applicable to Unreal VFX
 
 <h4 id="where-to-start-vfx">
 Where to Start
