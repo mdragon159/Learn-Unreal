@@ -1,12 +1,8 @@
-_Planning to clean this doc up by at latest: 4/13/2023_
+_Planning to clean this doc up by at latest: 4/13/2023_ <br/>
 _For now, please excuse the messiness and feel free to suggest edits_
 
 # Learn Unreal
 This repo aims to assist in the discoverability of Unreal Engine learning resources, covering everything from art to coding. Learning Unreal Engine alone as an indie or aspiring game developer can be extremely difficult and thus I hope this helps ease your journey somewhat.
-
-TODO: Emphasize this is based on my journey and what I've run into. There are tons of resources out there so there's a lot missing here as well. However, focus here is to list out key channels and otherwise resources that would help the greatest on a category-by-category basis
-
-TODO: Perhaps a section on how to find resources? Eg, search on Youtube then google (lotta text stuff out there)?
 
 **Table of Contents**
 
@@ -414,9 +410,12 @@ TODO
 
 ### Unreal Specific Communities
 TODO
+(Add Unreal Slackers discord?)
+(Unreal official forum)
 
 ### General Game Development Communities
 TODO
+(Don't feel comfortable freely listing discord links atm. Hmm... may need to remove this section)
 
 ### Art Communities
 - <details>
