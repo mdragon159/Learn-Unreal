@@ -1,3 +1,6 @@
+_Planning to clean this doc up by at latest: 4/13/2023_
+_For now, please excuse the messiness and feel free to suggest edits_
+
 # Learn Unreal
 This repo aims to assist in the discoverability of Unreal Engine learning resources, covering everything from art to coding. Learning Unreal Engine alone as an indie or aspiring game developer can be extremely difficult and thus I hope this helps ease your journey somewhat.
 
@@ -31,7 +34,7 @@ TODO: Perhaps a section on how to find resources? Eg, search on Youtube then goo
     - [Unreal Specific Communities](#unreal-specific-communities)
     - [General Game Development Communities](#general-game-development-communities)
     - [Art Communities](#art-communities)
-- [Other Unreal Resource Compilations](#other-unreal-resource-compilations)
+- [Other Resource Compilations](#other-resource-compilations)
 
 ## FAQs
 
@@ -429,10 +432,14 @@ TODO
 
   </details>
 
-## Other Unreal Resource Compilations
+## Other Resource Compilations
 TODO: I haven't really used  any of these, so need to go over these -> understand why they're valuable and unique -> turn into spoiler/expandable format with more details
 
+### Unreal Specific:
 - [Tom Looman's Unreal Engine Resource Collection](https://www.tomlooman.com/unreal-engine-resources/)
 - [BusinessOfApp's Big List of Unreal Engine Development Resources](https://www.businessofapps.com/news/big-list-unreal-engine-development-resources/)
 - [cindustries/unreal-directory](https://github.com/cindustries/unreal-directory)
 - [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
+
+### General:
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
