@@ -237,12 +237,6 @@ VFX & Materials/Shaders
 
   </details>
 - <details>
-  <summary><a href="https://www.youtube.com/user/asif786ali1">CGHow</a> - Extremely diverse set of VFX (particle system) tutorials</summary>
-
-    This channel contains a whoooole lot of VFX tutorials, with all recent ones using Niagara. Note that tutorials qualities can differ quite a bit from video to video but the effects are consistently amazing
-
-  </details>
-- <details>
   <summary><a href="https://www.youtube.com/channel/UCAaWnOJ4iFSQluBVNS2d-Ew">Dean Ashford</a> - Wide variety of visaul effect tutorials, ranging from solid particle systems to special shaders (TODO after more usage)</summary>
 
     TODO
