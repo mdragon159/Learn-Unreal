@@ -436,3 +436,4 @@ TODO: I haven't really used  any of these, so need to go over these -> understan
 
 ### General:
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+- [RespawnStack](https://respawnstack.com) — Curated directory of AI tools for game developers
